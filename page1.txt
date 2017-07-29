@@ -1,0 +1,1023 @@
+C:\Python27\python.exe E:/Git/Python/GetNovel/GetWebContent.py
+<!DOCTYPE html>
+<html>
+<head>
+<title>没有名字的人——我的名字里藏着一个上古文明的惊天秘密 _莲蓬鬼话_天涯论坛_天涯社区</title>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="mobile" name="applicable-device"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="email=no" name="format-detection"/>
+<meta content="address=no" name="format-detection"/>
+<meta content="本来这个故事，我是闲着没事瞎写的，打算全部写完才慢慢发的。现在才写了1／4，但是今天，是我外公的头七。我的外公7天前走了，享年97岁。我不知道我能用什么方式纪念他。唯一记得的是小时候他对我的期望。所以决..." itemprop="description" name="description"/>
+<link href="http://bbs.tianya.cn/post-16-1667691-1.shtml" rel="canonical"/>
+<link href="http://static.tianyaui.com/global/m/touch/images/icons/apple-touch-icon-114x114.png" rel="apple-touch-icon"/>
+<link href="http://static.tianyaui.com/global/m/v3/static/css/main_96efa9b.css" rel="stylesheet"/>
+<link href="http://static.tianyaui.com/global/m/v3/static/css/post_d3cb395.css" rel="stylesheet"/>
+<script type="text/javascript">
+var bbsGlobal = {
+isEhomeItem: false,
+isNewArticle: true,
+blocktype: "副版",
+itemType: "副版",
+itemName: "莲蓬鬼话",
+page: "1",
+"\r\n{\r\nisEhomeItem: false,\r\nisNewArticle: true,\r\nblocktype: \"\u526f\u7248\",\r\nitemType: \"\u526f\u7248\",\r\nitemName: \"\u83b2\u84ec\u9b3c\u8bdd\",\r\npage: \"1\",\r\ntotalPage: 213,\r\npermission: true,\r\nitemPermission: 1,\r\npowerReply: true,\r\nitem: \"16\",\r\nartId: 1667691,\r\nmedia: 0,\r\nsubType: \"\u8fde\u8f7d\",\r\ntitle: \"\u6ca1\u6709\u540d\u5b57\u7684\u4eba\u2014\u2014\u6211\u7684\u540d\u5b57\u91cc\u85cf\u7740\u4e00\u4e2a\u4e0a\u53e4\u6587\u660e\u7684\u60ca\u5929\u79d8\u5bc6 \",\r\nauthorName: \"foxfoxbee\",\r\nauthorId: 15430689,\r\nad: \"0\",\r\nadblock: \"0\",\r\nadshow: \"0\",\r\nisSlide: true,\r\nToWeb: \"true\",\r\ndashang: {\r\n\tmerId : \"%E5%A4%A9%E6%B6%AF%E8%AE%BA%E5%9D%9B\",\r\n\tmerNum : \"16-1667691\",\r\n\tgetName : \"foxfoxbee\",\r\n\ttime : \"1501318772747\",\r\n\text1 : \"1667691\",\r\n\text2 : \"16\",\r\n\text3 : \"%3Cfont+color%3Dff6600%3E%3Cb%3E%E6%B2%A1%E6%9C%89%E5%90%8D%E5%AD%97%E7%9A%84%E4%BA%BA%E2%80%94%E2%80%94%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E9%87%8C%E8%97%8F%E7%9D%80%E4%B8%80%E4%B8%AA%E4%B8%8A%E5%8F%A4%E6%96%87%E6%98%8E%E7%9A%84%E6%83%8A%E5%A4%A9%E7%A7%98%E5%AF%86+%3C%2Fb%3E%3C%2Ffont%3E\",\r\n\tsign : \"d87e30a27433cfbe9e7c299f9c5f4799\",\r\n\tamount : 59682,\r\n\tzhiyinCount : 47,\r\n\tnewestRecords : [{\"shang\":10.0,\"giftId\":null,\"doUserName\":\"\u4e2d\u95f4\u7684\u592a\u9633\",\"doUserId\":\"127812965\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":100.0,\"giftId\":null,\"doUserName\":\"ty_130713454\",\"doUserId\":\"130713454\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":1000.0,\"giftId\":null,\"doUserName\":\"\u58a8\u6c34\u7a7a\",\"doUserId\":\"130347240\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":10.0,\"giftId\":null,\"doUserName\":\"ty_\u8d75\u8001\u592a\",\"doUserId\":\"127007186\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":100.0,\"giftId\":null,\"doUserName\":\"\u5e7c\u516e\u4e36\u603b\u653b\u5927\u4eba\",\"doUserId\":\"129590652\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":10.0,\"giftId\":null,\"doUserName\":\"\u534a\u591c\u627e\u5395\u6240\",\"doUserId\":\"129585087\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":100.0,\"giftId\":null,\"doUserName\":\"123\u5355\u773c\u76ae\",\"doUserId\":\"5426013\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":1314.0,\"giftId\":null,\"doUserName\":\"\u827e\u8587\u77e5\u610f\",\"doUserId\":\"129917605\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":1314.0,\"giftId\":null,\"doUserName\":\"\u8d85\u7ea7\u9a6c\u5047\",\"doUserId\":\"30564358\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":9900.0,\"giftId\":null,\"doUserName\":\"wukongtiti\",\"doUserId\":\"130167450\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":10.0,\"giftId\":null,\"doUserName\":\"ty_127945378\",\"doUserId\":\"127945378\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null},{\"shang\":10.0,\"giftId\":null,\"doUserName\":\"\u795e\u5728\u8fd0\u884c\",\"doUserId\":\"65313166\",\"giftName\":null,\"giftNum\":null,\"giftUnit\":null,\"shangStr\":null}]\r\n}\r\n};\r\n"
+: 213,
+permission: true,
+itemPermission: 1,
+powerReply: true,
+item: "16",
+artId: 1667691,
+media: 0,
+subType: "连载",
+title: "没有名字的人——我的名字里藏着一个上古文明的惊天秘密 ",
+authorName: "foxfoxbee",
+authorId: 15430689,
+ad: "0",
+adblock: "0",
+adshow: "0",
+isSlide: true,
+ToWeb: "true",
+dashang: {
+	merId : "%E5%A4%A9%E6%B6%AF%E8%AE%BA%E5%9D%9B",
+	merNum : "16-1667691",
+	getName : "foxfoxbee",
+	time : "1501315046890",
+	ext1 : "1667691",
+	ext2 : "16",
+	ext3 : "%3Cfont+color%3Dff6600%3E%3Cb%3E%E6%B2%A1%E6%9C%89%E5%90%8D%E5%AD%97%E7%9A%84%E4%BA%BA%E2%80%94%E2%80%94%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E9%87%8C%E8%97%8F%E7%9D%80%E4%B8%80%E4%B8%AA%E4%B8%8A%E5%8F%A4%E6%96%87%E6%98%8E%E7%9A%84%E6%83%8A%E5%A4%A9%E7%A7%98%E5%AF%86+%3C%2Fb%3E%3C%2Ffont%3E",
+	sign : "164904d21b0d5a39636e6487b2028f6c",
+	amount : 59682,
+	zhiyinCount : 47,
+	newestRecords : [{"shang":10.0,"giftId":null,"doUserName":"中间的太阳","doUserId":"127812965","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":100.0,"giftId":null,"doUserName":"ty_130713454","doUserId":"130713454","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":1000.0,"giftId":null,"doUserName":"墨水空","doUserId":"130347240","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":10.0,"giftId":null,"doUserName":"ty_赵老太","doUserId":"127007186","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":100.0,"giftId":null,"doUserName":"幼兮丶总攻大人","doUserId":"129590652","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":10.0,"giftId":null,"doUserName":"半夜找厕所","doUserId":"129585087","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":100.0,"giftId":null,"doUserName":"123单眼皮","doUserId":"5426013","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":1314.0,"giftId":null,"doUserName":"艾薇知意","doUserId":"129917605","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":1314.0,"giftId":null,"doUserName":"超级马假","doUserId":"30564358","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":9900.0,"giftId":null,"doUserName":"wukongtiti","doUserId":"130167450","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":10.0,"giftId":null,"doUserName":"ty_127945378","doUserId":"127945378","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null},{"shang":10.0,"giftId":null,"doUserName":"神在运行","doUserId":"65313166","giftName":null,"giftNum":null,"giftUnit":null,"shangStr":null}]
+}
+};
+</script>
+<script>
+(window._ssp_global = window._ssp_global || {}).userConfig = {
+	domain: "bdp.tianya.cn"
+}
+</script>
+</head>
+<body>
+<div class="m-doc">
+<!-- header -->
+<!-- header begin-->
+<!-- header begin-->
+<div class="ty-m-nav">
+<header class="m-header" id="j-header">
+<div class="m-bar f-cf">
+<ul class="m-bar-left" id="ty_go_back">
+<li class="a">
+<a class="icon-back" href="javascript:history.go(-1)"></a>
+</li>
+</ul>
+<ul class="m-bar-center" id="ty_logo">
+<li class="logo">
+<a class="logo-img" href="http://www.tianya.cn/m/"><span class="f-vh">天涯社区</span></a>
+</li>
+</ul>
+<ul class="m-bar-right user-info"></ul>
+</div>
+</header>
+<!-- nav -->
+<nav class="m-nav" id="ty_nav">
+<div class="nav-wrap">
+<div class="m-nav-row">
+<a appstr="shouye" class="active" href="http://www.tianya.cn/m/">首页</a>
+<a appstr="bbs" href="http://bbs.tianya.cn/m/block.jsp">论坛</a>
+<a appstr="focus" href="http://focus.tianya.cn/g">聚焦</a>
+<a appstr="groups" href="http://groups.tianya.cn/m">部落</a>
+<a appstr="blog" href="http://blog.tianya.cn/m/">博客</a>
+</div>
+<div class="m-nav-row">
+<a appstr="wenda" href="http://wenda.tianya.cn/m/">问答</a>
+<a appstr="ebook" href="http://book.tianya.cn/m/">文学</a>
+<a appstr="game" href="http://yy.tianya.cn/">游戏</a>
+<a appstr="food" href="http://farm.tianya.cn/m/">农场</a>
+<a appstr="shang" href="http://shang.tianya.cn/rank/m/dsRanking.do?from=t&amp;type=1">打赏</a>
+</div>
+<div class="nav-up" id="nav_up" style="display:none;">收起</div>
+</div>
+</nav>
+<div class="nav-mask" id="nav_mask"></div>
+</div>
+<!-- header end-->
+<!-- header end--><!-- For FIS -->
+<div style="display:none"><img height="0" src="http://static.tianyaui.com/global/m/v3/static/images/logo-ty.png" width="0"/></div>
+<!-- main -->
+<div class="m-main">
+<div class="gg gg-item" data-id="10051001"></div><!-- 传漾文字链 -->
+<div class="post" id="j-post-content">
+<div class="title">
+<h1>没有名字的人——我的名字里藏着一个上古文明的惊天秘密 </h1>
+<div class="meta f-cf">
+<p class="fc-gray ">
+<i class="iconfont icon-view"> 2537798</i>
+<i class="iconfont icon-reply"> 10478</i>
+<a class="block fc-blue" href="list-16-1.shtml">莲蓬鬼话</a>
+</p>
+</div>
+</div>
+<div class="content">
+<div class="item item-zt item-lz" data-id="0" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">                        	
+                        	foxfoxbee                       	
+                        	<span class="u-badge">楼主</span></h4>
+<p class="time fc-gray">2017-02-23 10:57</p></a>
+</div>
+<div class="bd">
+<p>本来这个故事，我是闲着没事瞎写的，打算全部写完才慢慢发的。</p><p>现在才写了1／4，但是今天，是我外公的头七。</p><p>我的外公7天前走了，享年97岁。</p><p>我不知道我能用什么方式纪念他。唯一记得的是小时候他对我的期望。</p><p>所以决定竖起床板来开贴。这也是我的第一个贴。</p><p>By the way,楼主影视搬砖狗一枚，在大西洋的彼岸，最近上了一个逗比总统的资本主义国家。</p><p>这个故事的灵感来源于去年我追的一个美剧叫strange thing。故事背景基于美苏冷战期间一个真实的美国人类改造实验星门计划Star Gate Project。故事内容是讲在实验中的一个小孩子逃到了镇子上，引发了一系列悬案，同时也和镇上的三个小孩子产生了单纯美好的友谊。</p><p>此美剧名列去年IMDB Top10.</p><p>我不是专业写手，这是第一次发文。不会挖坑。</p><p>全部原创，天涯首发，每晚睡前发（国内下午的样子），发完睡觉。</p><p>会坚持每天更新，但3千字一天貌似是我的极限。</p><p>故事的背景做过完整的reserch，有一定的史料和论据，并不是纯胡编乱造。</p><p>这个长篇中涉及的许多短篇，已经在WGA（美国剧本／剧本梗概版权注册网站）注册过影视版权，因此，如果论坛里也有同行，如果你喜欢这里面的故事，想改编成影视作品之前，请联系我。</p><p>禁止抄袭，给一点点同行起码的尊重。</p><p>好下面故事开始。</p>
+</div>
+<div class="bd-ds"></div>
+<div class="ft">
+<div class="toolbox" id="host_toolbox">
+<a class="see-clean-btn" href="#">脱水模式</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="1" data-replyid="33976908" data-time="2017-02-23 11:01" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:01</p>
+</a>
+<span class="floor fc-gray">1楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>————————————分楼层————————————————</p>
+</div>
+<div class="comments u-arrow" data-total="9">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="125694530" href="http://www.tianya.cn/m/home.jsp?uid=125694530">Cobistany </a>
+<span class="time fc-gray">2017-03-03 16:39</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：打倒妞妞</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="126121360" href="http://www.tianya.cn/m/home.jsp?uid=126121360">ty_毛毛913 </a>
+<span class="time fc-gray">2017-03-13 15:05</span>
+<p class="cnt">电影搬砖??支持你</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="6677762" href="http://www.tianya.cn/m/home.jsp?uid=6677762">jstzlf </a>
+<span class="time fc-gray">2017-03-30 09:31</span>
+<p class="cnt">许久不来天涯。外观大大改变。不过瓤子好像还在。</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="15430689" href="http://www.tianya.cn/m/home.jsp?uid=15430689">foxfoxbee </a>
+<span class="u-badge">楼主</span>:      
+	                                                                     
+	                                       
+	                                         <span class="time fc-gray">2017-03-30 18:24</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/jstzlf">jstzlf</a>：么么～</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="128476922" href="http://www.tianya.cn/m/home.jsp?uid=128476922">zhao785747135 </a>
+<span class="time fc-gray">2017-05-25 13:29</span>
+<p class="cnt">裤子都脱了。你特么给我看这个  可以啊大兄弟</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="15430689" href="http://www.tianya.cn/m/home.jsp?uid=15430689">foxfoxbee </a>
+<span class="u-badge">楼主</span>:      
+	                                                                     
+	                                       
+	                                         <span class="time fc-gray">2017-05-25 13:38</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/zhao785747135">zhao785747135</a>：？？？黑人问号脸？</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="89940860" href="http://www.tianya.cn/m/home.jsp?uid=89940860">我的Q宝儿 </a>
+<span class="time fc-gray">2017-06-24 20:50</span>
+<p class="cnt">那美剧貌似看过，但是忘记名字了，，汗??</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="120039427" href="http://www.tianya.cn/m/home.jsp?uid=120039427">葫芦娃与奥特曼 </a>
+<span class="time fc-gray">2017-07-15 00:17</span>
+<p class="cnt">文笔好，诙谐有趣又引人入胜，而且我竟然信了！支持旺旺??</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="121425829" href="http://www.tianya.cn/m/home.jsp?uid=121425829">江有情 </a>
+<span class="time fc-gray">2017-07-25 02:59</span>
+<p class="cnt">楼主说的这个美剧我是看过的，有超能力的小女孩</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#1">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="2" data-replyid="33976912" data-time="2017-02-23 11:02" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:02</p>
+</a>
+<span class="floor fc-gray">2楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>这是一个关于名字的故事。</p><p>名字，是每一个人在降临到这个世界上时，父母赋予它的第一个美好的祝愿和期盼。</p><p>无论在东方和西方，名字或多或少的在成长中影响我们潜在的性格。</p><p>举个栗子，</p><p>我生活在南方，通常叫名字里面含有诗或静字的女生，比如说陈诗韵，张静柔。</p><p>她们大多数都成长在比较保守的家庭，性格内向，说话小声，即使在青春期也不会有什么大逆不道的行为，认真读书考试，成绩一般中上游，毕业后成为公司OL并在30岁之前结婚生子。</p><p>又或者，名字里有家的男生，比如说王家俊，周家明。</p><p>一般都身材瘦高不善言辞，喜欢篮球型运动，爱穿衬衫，毕业后很少会离开家乡到外面发展，薪资平平，会耐心的陪女朋友或者老婆逛街买衣服，基本没有胆量背着老婆找小三。</p><p>又比如，叫美丽的永远不是美女，叫英俊的永远长得不帅。</p><p>在西方也一样。</p><p>名字叫Grace或者Phobe的，从小到大都是好人缘的大美女；</p><p>只要叫Paul的都是极度内向的闷骚男，喜欢看书和在社交软件上聊骚异性；</p><p>叫Sam永远是肌肉发达、不停说话但没啥脑子的大个子。</p><p>没有一个叫Richard的不爱喝啤酒，并且一到中年瞬间秃顶。</p><p>几乎每一个老板的女秘书都叫Amanda，因为她们似乎特别擅长管理日程和接电话。</p><p>名字会伴随一个人从娘胎里开始，直到走进坟墓。</p><p>就好像日本小说阴阳师晴明里说的，名字就是这个世界上最短的咒语，我们每个人都被束缚在名字里。</p><p>宇宙万物皆有姓名，只有神没有名字。</p>
+</div>
+<div class="comments u-arrow" data-total="6">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="117631251" href="http://www.tianya.cn/m/home.jsp?uid=117631251">哇咔溜 </a>
+<span class="time fc-gray">2017-04-24 11:59</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：温家bao表示不服</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="15430689" href="http://www.tianya.cn/m/home.jsp?uid=15430689">foxfoxbee </a>
+<span class="u-badge">楼主</span>:      
+	                                                                     
+	                                       
+	                                         <span class="time fc-gray">2017-04-24 12:01</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/哇咔溜">哇咔溜</a>：哈哈哈哈哈</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="106064526" href="http://www.tianya.cn/m/home.jsp?uid=106064526">走不出黑夜的蜉蝣 </a>
+<span class="time fc-gray">2017-05-18 17:10</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：温家的Sam估计也会表示不服</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="63861704" href="http://www.tianya.cn/m/home.jsp?uid=63861704">trisandbbf </a>
+<span class="time fc-gray">2017-06-15 09:17</span>
+<p class="cnt">叫sonya的没有一个不是大胖子。</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="86071058" href="http://www.tianya.cn/m/home.jsp?uid=86071058">萱璃 </a>
+<span class="time fc-gray">2017-06-30 21:51</span>
+<p class="cnt">然而名字有静的人一般都不会很静…</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="94158529" href="http://www.tianya.cn/m/home.jsp?uid=94158529">南宫小熊 </a>
+<span class="time fc-gray">2017-07-21 22:55</span>
+<p class="cnt">叫穆罕穆德的呢</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#2">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="3" data-replyid="33976916" data-time="2017-02-23 11:03" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:03</p>
+</a>
+<span class="floor fc-gray">3楼</span>
+</div>
+<div class="bd">
+<div class="reply-divreply-div">
+<p>我的父亲是文&amp;00＃革后第一批大学生，80年代出辗转出国读研。在美国与母亲相识相爱。我在美国出生。</p><p>一般看到这就弃楼的肯定会说，</p><p>哟，那您的名字肯定是伊丽莎白.紫魅.曼珠沙华.碧池吧。</p><p>然而这并不是一个逼＊格高到没有朋友的小说。</p><p>虽然在美国出生听起来非常高大上，但我还没满一岁就跟着爸妈回国了。</p><p>我爸去了某机关单位上班，80年代的时候是铁饭碗，走哪哪羡慕。</p><p>我妈英语好，赶上当时南方城市全民搞外贸，我妈也进了国营工艺品公司做进出口，还总能去香港新加坡出差。</p><p>和国内的大部分小孩一样，我也是住着筒子楼，穿着白色回力鞋和绿色波浪校服，吃着饭堂，在考场上披荆斩棘长大的。、只是家里环境稍微好一点，零用钱多一点，每天能补贴自己一碗萝卜牛杂而已。用现在的话说，中产偏上吧。</p><p>唯一的区别是，我在15岁之前不知道自己的本名。</p>
+</div>
+<div class="comments u-arrow" data-total="2">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="127735275" href="http://www.tianya.cn/m/home.jsp?uid=127735275">墨羽额心额夜 </a>
+<span class="time fc-gray">2017-06-14 19:56</span>
+<p class="cnt">天涯无德坑蒙拐骗，誓与天涯不两立！史上最好用的天涯顶贴机，为灭天涯而生！黑衣路人曾在天涯做后台程序，知道很多天涯很多内幕。若有需要用到顶贴机软件的朋友，请网上找：黑衣路人</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="103406125" href="http://www.tianya.cn/m/home.jsp?uid=103406125">吴郡道元 </a>
+<span class="time fc-gray">2017-07-09 10:33</span>
+<p class="cnt">每天一碗萝卜牛杂，你这才是真正的富人啊。80年代中国人普遍还是穷的很，小孩子有牛奶喝都被看作小资产阶级，我的小学同学每天有一角钱可以买零食已经是资产阶级，大多数人连猪肉都不能保证每周吃两次，你能吃萝卜牛杂绝对是豪富了，比现在每天一包辣条含金量都高。</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#3">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="4" data-replyid="33976918" data-time="2017-02-23 11:03" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:03</p>
+</a>
+<span class="floor fc-gray">4楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>我认真的回忆了一下，是什么时候开始发现自己的名字有问题的。</p><p>大概是三四岁的时候。</p><p>在这之前，我小名叫妞妞。</p><p>那时候，很多家长刚开始教孩子写字，都会先教孩子写自己的名字。</p><p>我回家也吵着让我妈教我。我妈，张中华，华姐，就教我写两个字：</p><p>妞妞。</p><p>哪有小孩全名叫妞妞的？我爸叫汪金水难道我不该跟我爸姓汪？</p><p>但我当时太小，被我妈塞给我的几条冰糕收买了，忽悠了一下就真以为自己的名字叫妞妞。</p><p>5岁马上就要读小学了，我小时候从来没上过幼儿园，其他家长劝我妈让我先念个学前班。</p><p>那天我妈开着摩托车把我送到幼儿园门口，迎接我的老师对我说：“这就是汪旺旺？”</p><p>当时我的反应是蒙逼的，谁TM是汪旺旺？</p><p>如果现在我肯定会说，excuse me？</p><p>然后我妈忽然低下头轻声跟我说：“你的名字是汪旺旺。”</p>
+</div>
+<div class="comments u-arrow" data-total="1">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="46871792" href="http://www.tianya.cn/m/home.jsp?uid=46871792">330997028 </a>
+<span class="time fc-gray">2017-07-08 18:14</span>
+<p class="cnt">哈哈哈，我爸叫汪传旺，哈哈哈哈哈哈</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#4">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="5" data-replyid="33976921" data-time="2017-02-23 11:04" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:04</p>
+</a>
+<span class="floor fc-gray">5楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>我妈走后，老师带着一堆小朋友玩丢手绢。</p><p>“丢手绢，丢手绢，轻轻的丢在小朋友的后面大家不要告诉她。</p><p>快点快点抓住她，快点快点抓住她。”</p><p>…...</p><p>“汪旺旺，快点啊，到你了，你起来啊，汪旺旺？旺汪汪？”幼儿园老师对我喊道。</p><p>老师你为什么学狗叫啊？ </p><p>我毫无反应。</p>
+</div>
+<div class="comments u-arrow" data-total="1">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="49961610" href="http://www.tianya.cn/m/home.jsp?uid=49961610">何谓生生世世 </a>
+<span class="time fc-gray">2017-07-17 15:03</span>
+<p class="cnt">求幼儿园老师的心里阴影面积</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#5">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="6" data-replyid="33976924" data-time="2017-02-23 11:04" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:04</p>
+</a>
+<span class="floor fc-gray">6楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>上小学前两天，我妈买了五条芙蓉王，两瓶特别好的白酒，和我妈外贸公司出口的宝石项链，开着摩托车带着我到小学校长家。</p><p>小学校长是个又高又瘦的老太太，带着金丝眼镜，</p><p>寒暄了一下后，我妈和校长低语了几句，校长一脸疑惑。</p><p>“确定按照这个名字.....打姓名单？”校长问。</p><p>我妈紧紧的抓住她的手，“真是拜托您了，也请务必别跟她的班主任透露。”</p><p>我妈说完，把放着项链的首饰盒使劲往老校长手里塞过去。</p><p>“这....确实也不是什么大事，可孩子以后万一中考了，还是要填本名的呀。”校长推了推眼镜。</p><p>“哎，到时候再想办法吧。”我妈继续把其他礼往校长手里推。</p><p>然后，我汪旺旺的名字继续使用了八年。</p><p>和梅德升，郝夏健，曾桃艳，李昌富，杨巅峰，陆大乃和杜其衍并称南山区八大金刚，被人嘲笑了八年。</p><p>中间的一切需要本名的活动，诸如体检，少年宫报名，升学等，也不知道我妈找了多少关系，都巧妙的隐瞒了。</p><p>开始懂点屁事的我，觉得我爸妈做为海归高材生，应该是脑抽了才会给我起这么个名字。</p><p>可我没机会问了，我妈在我小学一年级的时候，把我送离了她和我爸的身边。</p>
+</div>
+<div class="comments u-arrow" data-total="3">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="128812409" href="http://www.tianya.cn/m/home.jsp?uid=128812409">决战罗型 </a>
+<span class="time fc-gray">2017-06-06 14:01</span>
+<p class="cnt">记号</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="6972126" href="http://www.tianya.cn/m/home.jsp?uid=6972126">我是莫莫 </a>
+<span class="time fc-gray">2017-06-22 06:37</span>
+<p class="cnt">户口本怎么上啊？医院挂号呢？？唉，没名字好烦恼的。。</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="130674001" href="http://www.tianya.cn/m/home.jsp?uid=130674001">帝玄道 </a>
+<span class="time fc-gray">2017-07-20 14:04</span>
+<p class="cnt">芙蓉王？湖南人么</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#6">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="7" data-replyid="33976930" data-time="2017-02-23 11:06" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:06</p>
+</a>
+<span class="floor fc-gray">7楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>那一天，我放学一回家，见到一个大美女和我爸妈坐在客厅。</p><p>她的脸上看起来特别光滑，皮肤白皙细腻，一点皱纹都没有，就好像大姐姐一样；</p><p>可是她整个人穿的衣服却很成熟，一对绿色珐琅耳环配黑色丝绒连衣裙，穿着当时只有在港台剧里面才能看到的黄色高跟鞋。</p><p>那么问题来了，我一下竟然不知道应该叫她姐姐还是阿姨。</p><p>我爸妈似乎在跟她谈论很严肃的话题，华姐的眉头都挤成了川子型，眼角隐约有泪痕。</p><p>我轻轻的叫了一声：“阿姨好。”</p><p>阿姨见到我却是相当的友善，眼睛笑起来弯弯的。</p><p>“哟，这是旺旺？过来让阿姨抱抱。”阿姨一边说一边顺势把我搂在怀里。</p><p>阿姨身上有一种很甜又很奇怪的香味，以前从来没有闻过。</p><p>阿姨叫汪舒月，据说是爸爸的本家远亲。我妈介绍她是我们家多年的老朋友了。</p><p>汪汪，你以后叫我舒月阿姨就行。”舒月笑眯眯的看着我：“从今往后我们就一起生活了。”</p><p>啥？难道阿姨以后要来我家住？</p><p>可是我家只有两间房啊，难道我要把房间让给她？</p>
+</div>
+<div class="comments u-arrow" data-total="1">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="15430689" href="http://www.tianya.cn/m/home.jsp?uid=15430689">foxfoxbee </a>
+<span class="u-badge">楼主</span>:      
+	                                                                     
+	                                       
+	                                         <span class="time fc-gray">2017-03-16 19:52</span>
+<p class="cnt">此处“小花”应该为旺旺，没检查出错别字，这个锅我背了</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#7">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="8" data-replyid="33976935" data-time="2017-02-23 11:06" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:06</p>
+</a>
+<span class="floor fc-gray">8楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>“今晚妈妈和你收拾一下衣服行李去舒月家，明天放学舒月来接你。”我妈说。</p><p>我幼小的三观又被颠覆了。</p><p>难道你们要把我送给人？？？</p><p>难道我就这样被抛弃了吗？？？</p><p>当时正值琼瑶剧热播期间，其中八点档《婉君》和《西游记》二选一，明明将会有一个像西游记一般奇幻人生的我，却毅然选择虐心苦逼爱情剧。</p><p>婉君从小作为童养媳送到有钱人家，尝遍寄人篱下的心酸和凄凉，有一场戏说，婉君的婆婆逼她冬天去河里打水，河水把指尖都冻红了，电视机这一头的我流着泪义愤填膺。</p><p>现在想想也没什么了不起的嘛，挪威人冬天不也洗冷水澡？</p><p>总之在那一瞬间，我的未来和电视剧里婉君被恶婆婆毒打，拖地洗衣煮饭的画面无缝连接。</p><p>“不要－－－－－－”</p><p>我哇哇大哭。</p>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#8">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="9" data-replyid="33976937" data-time="2017-02-23 11:07" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:07</p>
+</a>
+<span class="floor fc-gray">9楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>“舒月是爸爸和妈妈的好朋友，爸爸妈妈不是不要你，妈妈太忙总要出差，你爸爸又不会照顾人，我们实在是没时间啊。”</p><p>“妈妈一直对你疏于教育，舒月是师范大学毕业的，她还能教你做作业，爸爸妈妈会每周来看你的。”</p><p>“你不是说一直想学钢琴和画画吗，舒月都会，她可会弹琴了。”</p><p>……</p><p>任凭华姐说干了口水，我不为所动。我已经不再是那个两条冰棍就能收买的低龄儿童。</p><p>肯定是把我卖了。</p><p>最后，老爸开口了。</p><p>“舒月一直没有小孩，她家在很远很远的地方，那里流传一种说法，如果一个女人总怀不上孩子，就要带一个孩子回家养一段时间，这叫“带子”。如果舒月跟你生活了一段时间，她就会慢慢怀上孩子了。舒月阿姨很想要孩子，旺旺你作为社会主义的接班人，班里的小组长，爸爸的好女儿，是不是应该助人为乐，帮帮阿姨？阿姨有了孩子之后，就会把你送回来了。”</p><p>爸爸的话让我正义感爆发，我可是刚领到红领巾的少先队员。</p><p>Whatever, 反正当时我就信了。</p>
+</div>
+<div class="comments u-arrow" data-total="3">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="121876678" href="http://www.tianya.cn/m/home.jsp?uid=121876678">ty_121876678 </a>
+<span class="time fc-gray">2017-05-26 08:35</span>
+<p class="cnt">这时候，胸前的红领巾更鲜艳了</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="15430689" href="http://www.tianya.cn/m/home.jsp?uid=15430689">foxfoxbee </a>
+<span class="u-badge">楼主</span>:      
+	                                                                     
+	                                       
+	                                         <span class="time fc-gray">2017-05-26 13:21</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/ty_121876678">ty_121876678</a>：哈哈哈你让我想起了小时候刚成为少先队员，满大街去找过马路的老奶奶的事～</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="103406125" href="http://www.tianya.cn/m/home.jsp?uid=103406125">吴郡道元 </a>
+<span class="time fc-gray">2017-07-09 10:36</span>
+<p class="cnt">现在你还敢扶老奶奶吗？哈哈</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#9">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="10" data-replyid="33976943" data-time="2017-02-23 11:07" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:07</p>
+</a>
+<span class="floor fc-gray">10楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>我不知道舒月到底多少岁，她本科在一流的大学读生物工程，后来在麻省理工（我妈口中说的师范大学）攻读硕士主修生物和遗传学。她的研究据说上过号称诺贝尔医学奖前哨的科学杂志柳叶刀。</p><p>可惜九十年代，无论是留洋归来的大博士，还是学富五车的科学家，也一样是住在筒子楼，只有商人企业家才住别墅。</p><p>我也没看出来她每天像个正常科研人员去哪里上班，倒是每天打扮得花枝招展神神秘秘就出去了。也不知道去干嘛。</p><p>这一住就住到了初中，事实上当我小学四年级之后，就知道“带子”什么的是骗人的了，她连老公都没有怎么会有孩子呢。</p><p>但是小学四年级之前，他们给我灌输的观念就是小孩是趁睡着后从裤腿里面爬进去的。</p><p>亏我还老是问她为什么小孩子还没爬到她肚子里去，她还一本正经的给我解释，小孩怕她放屁不肯进来。</p><p>你们这些大人，能不能对小孩有基本的诚信啊？</p><p>在这种环境中长大的孩子，随时都有因为三观颠覆而导致精神分裂的可能好吗？</p><p>我爸妈唯一没骗我的是，舒月确实谈得一手好钢琴，也画得一手好画。</p><p>我学会了弹梁祝和天鹅湖，也学会了工笔花鸟行云流水。</p>
+</div>
+<div class="comments u-arrow" data-total="6">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="107758883" href="http://www.tianya.cn/m/home.jsp?uid=107758883">woshipeidaxian </a>
+<span class="time fc-gray">2017-03-03 19:40</span>
+<p class="cnt">噗</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="81668346" href="http://www.tianya.cn/m/home.jsp?uid=81668346">快快的刀 </a>
+<span class="time fc-gray">2017-04-18 20:38</span>
+<p class="cnt">单身女人难道不寂寞？夜里不会有什么小动作？</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="92701485" href="http://www.tianya.cn/m/home.jsp?uid=92701485">Suavee1 </a>
+<span class="time fc-gray">2017-04-19 21:28</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/快快的刀">快快的刀</a>：同问</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="8779800" href="http://www.tianya.cn/m/home.jsp?uid=8779800">feng841210 </a>
+<span class="time fc-gray">2017-04-30 00:36</span>
+<p class="cnt">我挺想帮那些女人的。</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="130041962" href="http://www.tianya.cn/m/home.jsp?uid=130041962">ty_130041962 </a>
+<span class="time fc-gray">2017-06-27 10:00</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：对于你童年凄惨的遭遇！我感到这种事你都能碰上。。也是666了</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="103406125" href="http://www.tianya.cn/m/home.jsp?uid=103406125">吴郡道元 </a>
+<span class="time fc-gray">2017-07-09 10:38</span>
+<p class="cnt">嗯，诚信很重要，来，童鞋们（敲黑板），打开生理卫生课本第267页，我们一起来看小黄图。</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#10">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="11" data-replyid="33976948" data-time="2017-02-23 11:08" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:08</p>
+</a>
+<span class="floor fc-gray">11楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>舒月每次去开家长会，回来都会拿着写满红字的数学成绩单：</p><p>“你这孩子像谁啊？你爸的好脑筋你咋一点都没继承？想当年你爸跟你这么大的时候，五位数加减乘除都靠心算。”</p><p>也幸好她不是我亲妈，按照我妈华姐的性格，估计一巴掌呼过来了。</p><p>但我真的是数字无能，我对数字极度不敏感，却对文字和图画非常有兴趣。按照舒月的说法，我的表现决定了右脑更发达一点，所以与其让我死记硬背各种数学公式，还不如利用我右脑的感知系统，训练我的观察能力和想象力，并辅助左脑的逻辑能力不足。</p><p>舒月训练我的方式竟然是玩游戏。</p>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#11">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="12" data-replyid="33976950" data-time="2017-02-23 11:09" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:09</p>
+</a>
+<span class="floor fc-gray">12楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>游戏是舒月DIY出来的，是一个圆圆的盒子，有点像月饼盒，但比月饼盒大一圈。里面是空心的。</p><p>盒子盖上，是一个很像迷宫的图形，在这个迷宫中间，有一个洞。</p><p>舒月说，这个游戏叫做“七路迷宫”。</p><p>我持透明球，其他颜色球由舒月摆放在迷宫里的任意位置。</p><p>我需要像玩撞球一样，用透明球把其他彩色球按照红黄白蓝黑等的顺序推进迷宫中间的洞里。透明弹珠每次只能推一颗彩色球，并且进洞的顺序不能错。</p><p>可是迷宫错中复杂，经常推完一颗，另一颗的位置就被堵住了，又或者不小心把两个彩色球推到了一起，这都算做输。</p><p>一开始舒月只放一个红球一个黄球让我推，没啥难度，小学生也能轻易按顺序推进洞。</p><p>到后来又逐渐增加了白蓝黑球，每推一步球时都需要小心谨慎，全盘布局，只要路线设计上有一点失误都赢不了。</p>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#12">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="13" data-replyid="33976971" data-time="2017-02-23 11:12" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:12</p>
+</a>
+<span class="floor fc-gray">13楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>描述无能的我，找了一张图来说明七路迷宫。</p><p>现在七路很难找了，找了张五路的示意一下。</p><p><img original="http://img3.laibafile.cn/p/mh/269739412.jpg" src="http://static.tianyaui.com/global/m/touch/images/loading.gif"/></p>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#13">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="14" data-replyid="33976975" data-time="2017-02-23 11:13" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:13</p>
+</a>
+<span class="floor fc-gray">14楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>输的惩罚是不能看香港台的美少女战士动画片。</p><p>作为引领全班时尚潮流的四年级三班宣传委员，如果不知道昨天美少女战士播了什么，是无法在午休时的角色扮演游戏中入选主角水冰月的。</p><p>何况（被逼）扮演夜礼服假面骑士的侯英俊，真的很英俊。</p><p>侯英俊那时候跟我挺来电的，看我的时候也会脸红，还会把别人送给他领导爸爸的进口糖果，偷偷塞进我手里。</p><p>所以即使智商有限，我也要燃烧小宇宙走完迷宫。</p><p>再后来，舒月把五个彩色球全都放进迷宫，我将近半年都无法按顺序走通。</p><p>六年级寒假前的最后一天，候英俊让我放学别走，我记挂着回家解谜，对他说谢谢不约。</p><p>开学时侯英俊被中队长眼镜章成功撬走。</p><p>我得知的第二天，迷宫解开了。</p><p>我的内心是崩溃的，如果当初快点走完迷宫，也许我就跟侯英俊是一对了，也许我的一生就改变了。</p><p>不得不感叹命运的错综复杂，远远比一个游戏更加扑朔迷离。</p><p>回头看去，其实命运早就给过我选择，可我不是电影里里能在最后一秒剪断炸弹引线的拆弹专家，也不是小说中能在千钧一发化险为夷的超能少年。</p><p>我只是一个爱胡思乱想，有点口吃，智商捉急的小学生。</p>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#14">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="15" data-replyid="33976976" data-time="2017-02-23 11:14" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:14</p>
+</a>
+<span class="floor fc-gray">15楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>回到二年级暑假。有天下午，舒月说要请我吃麦当劳。</p><p>那时候的麦当劳和肯德基，简直是每个小学生的生日愿望，尤其当是整个城市才有三间麦当劳、每间排队最少3小时的时候。因为每个排在你前面的小屁孩都要念：</p><p>双层牛肉巨无霸，酱汁洋葱夹青瓜，芝士生菜加芝麻，人人吃到笑哈哈！</p><p>只要能在五秒内背完并且不出错，就能得到一个免费的巨无霸大餐，每一个小学生都会背。我也拼命练了好久，可是我一紧张就口吃，肯定换不到巨无霸！</p><p>“没关系，我背了。”</p><p>舒月说完当着我的面背了一遍，3.5秒。</p><p>然后舒月骑着摩托带我去了动物园隔壁新开的麦肯基。</p>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#15">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="16" data-replyid="33976980" data-time="2017-02-23 11:15" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:15</p>
+</a>
+<span class="floor fc-gray">16楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>我当时还不知道高仿会在中国的未来越来越发达，只是很纳闷为啥这个麦当劳还有吮指全家桶和辣子鸡炒饭。</p><p>舒月点了一份炒饭，给我要一份汉堡包。</p><p>到嘴边的汉堡包，突然有点不太敢吃。</p><p>总觉得不正常，舒月也不正常。</p><p>舒月明确跟我说过她不喜欢吃麦当劳，她说以前吃的美式快餐太多，闻到就想吐。</p><p>上一次主动带我去吃肯德基，是让我假扮她的小孩，在街上哭着跑出来抱住她的大腿说“妈妈不要抛弃我呜呜呜”，并演唱世上只有妈妈好，以吓退她的追求者。</p><p>这次也一定不是好事。</p><p>但身为一个小学生，我感觉我不吃好像都对不起自己的智商，无法推动剧情发展了呢。</p><p>反正吃完后我摸着鼓鼓的肚：“说吧，要我干嘛？”</p><p>“小鬼你是越长越滑头了”，舒月白了我一眼，叹了口气。</p><p>确实，我因为跟她住在一起，脾气秉性也越来越像她，并且在我成年后，我也经常感慨，我既不像我爸的寡言内向，也不像我妈的风风火火，倒是像极了舒月，看似漫不经心，转转眼睛就一肚子鬼点子，张口就能一本正经的胡说八道。</p><p>舒月从包里摸出一叠纸：“背熟它。”</p>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#16">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="17" data-replyid="33976989" data-time="2017-02-23 11:16" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:16</p>
+</a>
+<span class="floor fc-gray">17楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>竟然是南北朝的《千字文》。</p><p>天地玄黄，日月洪荒。日月盈昃，晨宿列张开头那首。</p><p>这首千字文我会背，因为平常舒月教我练书法，就是用王羲之的字作字帖。</p><p>“你仔细看。”舒月拍拍纸面。</p><p>我仔细看了看，这是一张古书的复印版，总共12页，文字成竖排，每排四句。</p><p>每个字上面都有一个数字和字母标记。天，地，玄，黄分别是，A18，B10，A04，C91。</p><p>靠，一千个，敢不敢再难一点？</p><p>“我做不到。”我恨不得把汉堡吐出来。</p><p>“傻子，知道你智力有限，咋一看很难，其实有规律，你只需要记住前40个字，就能推断出后面的编码。”</p><p>感恩舒月没高估我的智商，经过她一番讲解，我马上找到了规律，还好也不是很难嘛。</p><p>“给你3天。”舒月说。</p><p>“最少也要一个礼拜。”</p><p>“四天。”</p><p>“五天。”</p><p>“成交。”</p><p>五天之后。</p><p>“背下来没有？”</p><p>我点了点头。</p><p>古月从我书桌上拿起那本千字文影印件，撕了。</p>
+</div>
+<div class="comments u-arrow" data-total="4">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="60513540" href="http://www.tianya.cn/m/home.jsp?uid=60513540">蘸着月光写童话 </a>
+<span class="time fc-gray">2017-05-01 20:04</span>
+<p class="cnt">宇宙洪荒</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="15430689" href="http://www.tianya.cn/m/home.jsp?uid=15430689">foxfoxbee </a>
+<span class="u-badge">楼主</span>:      
+	                                                                     
+	                                       
+	                                         <span class="time fc-gray">2017-05-02 12:00</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/蘸着月光写童话">蘸着月光写童话</a>：么么～</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="130041962" href="http://www.tianya.cn/m/home.jsp?uid=130041962">ty_130041962 </a>
+<span class="time fc-gray">2017-06-27 10:04</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：感觉这个阿姨在叫你修炼某种绝世神功~</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="113514462" href="http://www.tianya.cn/m/home.jsp?uid=113514462">u_113514462 </a>
+<span class="time fc-gray">2017-07-01 03:17</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：父母智商高生个2b只能是抱错和出轨</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#17">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="18" data-replyid="33976992" data-time="2017-02-23 11:17" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:17</p>
+</a>
+<span class="floor fc-gray">18楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>“从此这些代号只有我知你知。”</p><p>其实古月还说漏了一个人，也许是她故意不肯告诉我。</p><p>后来古月也会时不时的抽检我。</p><p>其实只要前面的字所指代的编号不记错，后面的都能推算出来。</p><p>数年之后我才知道，这是一套简易替换加密密码，因为这套密码，我成了唯一能靠近真相的人。</p><p>舒月家里不大，只有三间房，一间她睡，一间我睡。</p><p>还有一间房，主要就是放她的研究资料，植物样本和观测仪器什么的。</p><p>自从有一次我搞烂了一个虫子的标本之后，她就不肯让我进去了。</p><p>客厅的书架上有很多很多书，随着我逐渐长大，她经常有意无意的，从书架上抽出几本书，笑嘻嘻的问我能不能读懂。</p><p>大部分都是关于巫术，萨满，炼金术和多重宇宙的书，我才是多大啊我怎么可能看懂。</p><p>老师说封建迷信是不对的，于是我强烈谴责了她。</p><p>在当时我有限的认知里，麻省可能就是河南省隔壁的一个省，生物硕士可能就是学鸡鸭鹅养殖的。</p><p>舒月叹了口气，从一堆英文论文中抬起头。她摘掉面膜，揉了揉眼睛。</p><p>“跟我来”，她打开了那个放研究资料的的房间：“给你看一个好玩的东西。”</p>
+</div>
+<div class="comments u-arrow" data-total="5">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="127119729" href="http://www.tianya.cn/m/home.jsp?uid=127119729">浪子观天下 </a>
+<span class="time fc-gray">2017-04-08 21:55</span>
+<p class="cnt">河南哪里的？。。。我竟然天真的以为河南逗逼只有我一个，。。????果然高手都深藏在民间啊。。??????好文笔啊，兄台！??</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="81668346" href="http://www.tianya.cn/m/home.jsp?uid=81668346">快快的刀 </a>
+<span class="time fc-gray">2017-04-18 20:45</span>
+<p class="cnt">反面人物都操河南口音</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="75527542" href="http://www.tianya.cn/m/home.jsp?uid=75527542">应扬 </a>
+<span class="time fc-gray">2017-05-27 07:22</span>
+<p class="cnt">摘掉面膜^_^</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="130093634" href="http://www.tianya.cn/m/home.jsp?uid=130093634">小土豆12138 </a>
+<span class="time fc-gray">2017-07-07 15:01</span>
+<p class="cnt">哈哈，为什么不操东北口音呢</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="103406125" href="http://www.tianya.cn/m/home.jsp?uid=103406125">吴郡道元 </a>
+<span class="time fc-gray">2017-07-09 10:43</span>
+<p class="cnt">对啊，生物学硕士就是研究家禽养殖的，好比建筑工程硕士就是搬砖的，电脑科学硕士就是百脑汇里卖电脑的。</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#18">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="19" data-replyid="33976998" data-time="2017-02-23 11:18" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:18</p>
+</a>
+<span class="floor fc-gray">19楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>只要不让我学习，我基本上是没啥意见的。</p><p>舒月把桌上的电子显微镜打开，从保温柜里取出了一个培养皿。</p><p>“你看。”</p><p>我把眼睛凑过去，有一个颜色特别鲜艳的细胞，长着红色的鞭毛，透明的细胞内部有绿色的细胞核，它们迅速的分裂成两个。</p><p>“美丽吗？这是海拉细胞，是我们女孩子最容易得的一种癌症—子宫颈癌的细胞，”舒月说：“这种细胞被誉为'不死的'细胞，和人类细胞不同，这种细胞株不会衰老致死，更可以无限分裂下去。”舒月说完翻开另一本discovery《发现杂志》的图片。</p><p>“像吗？”</p><p>随着她的手指看过去，杂志里的一张照片，跟我刚才在显微镜里看到的画面一模一样。</p><p>“这不就是刚才你给我看的那个癌症细胞吗？”我说。</p><p>“不是，这是哈勃望远镜最新传回的观测图，是一颗恒星的死亡图像。每一刻恒星皆有寿命，快死去的恒星也叫红巨星，这就是它死亡的瞬间。”</p><p>“无数次科学观测证明了人体和宇宙的相似性，一颗行星的死亡和一颗分裂的细胞在最宏观的外太空中和最围观的显微镜下同时发生着，脑细胞在放大1000倍后呈现的图像和望远镜中的宇宙一模一样...这难道不是神存在最好的证明么，地球上的生物经历了如此复杂的进化，是多少亿分之一的几率才能出现如此的巧合？”舒月合上书本：“可是我们做科学研究，最不能相信的就是巧合，这似乎又是个驳论。”</p><p>“我听不明白。”我有点迷糊了。</p><p>“举个例子，猪和人有112条完全一样的基因突变，比人和猴子的相同基因还多。如果从DNA的角度解释，我们与其说是猴子变来的，还不如说更像猪。可是为什么猪没有进化出人类复杂的智慧和情感？为什么人类成了最后获得高等智慧的物种？难道又是巧合吗？如果这之中有谁在人和猪之间进行了一场淘汰，最后选择了人，那么它不是神是谁？”舒月看了我一眼。</p><p>“说人话。”我已经在想晚饭吃啥了。</p><p>“DNA的相似性也反映在智商上，人的智商平均为74，猪的平均智商为51.....可是这才相差了23，猪已经无法和人交流了。”</p><p>“你才是猪。”我恼羞成怒，扔下舒月走掉了。</p><p>“所以人和神的智商差了哪怕23以上，我们就无法理解神的思维.....”舒月在后面自言自语。</p>
+</div>
+<div class="comments u-arrow" data-total="11">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="127803249" href="http://www.tianya.cn/m/home.jsp?uid=127803249">zgxzsu2017 </a>
+<span class="time fc-gray">2017-05-31 17:34</span>
+<p class="cnt">自然流畅，挥洒自如，驾驭文字的能力令人赞叹</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="15430689" href="http://www.tianya.cn/m/home.jsp?uid=15430689">foxfoxbee </a>
+<span class="u-badge">楼主</span>:      
+	                                                                     
+	                                       
+	                                         <span class="time fc-gray">2017-05-31 18:42</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/zgxzsu2017">zgxzsu2017</a>：你是认真的吗 我一直都觉得我有一个弱项就是话说不明白</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="84315153" href="http://www.tianya.cn/m/home.jsp?uid=84315153">老饭囊 </a>
+<span class="time fc-gray">2017-06-14 21:05</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：哈哈哈哈 所以你是那种写完一段就要校稿三次以上的作者吗 </p>
+</li>
+<li>
+<a class="author fc-blue" data-id="71123443" href="http://www.tianya.cn/m/home.jsp?uid=71123443">临渊而舞judy </a>
+<span class="time fc-gray">2017-06-27 13:52</span>
+<p class="cnt">好幽默。爪</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="113514462" href="http://www.tianya.cn/m/home.jsp?uid=113514462">u_113514462 </a>
+<span class="time fc-gray">2017-07-01 03:21</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：爱因斯坦看你们就像蚂蚁一样</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="76912635" href="http://www.tianya.cn/m/home.jsp?uid=76912635">元教主 </a>
+<span class="time fc-gray">2017-07-08 12:52</span>
+<p class="cnt">哇哦，看到这我就点了收藏，楼主的文风看着不累</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="103406125" href="http://www.tianya.cn/m/home.jsp?uid=103406125">吴郡道元 </a>
+<span class="time fc-gray">2017-07-09 10:45</span>
+<p class="cnt">是“悖论”，不是“驳论”，楼主切记。</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="90033925" href="http://www.tianya.cn/m/home.jsp?uid=90033925">oliviadi </a>
+<span class="time fc-gray">2017-07-10 15:38</span>
+<p class="cnt">你忽略了一点，就是人类的语言能力。</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="100083434" href="http://www.tianya.cn/m/home.jsp?uid=100083434">Lynn竹均 </a>
+<span class="time fc-gray">2017-07-17 16:45</span>
+<p class="cnt">说真的这是我今天看到的帖子里唯一一个全程无吐槽的帖子了，逻辑通顺，没有多余的废话</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="15430689" href="http://www.tianya.cn/m/home.jsp?uid=15430689">foxfoxbee </a>
+<span class="u-badge">楼主</span>:      
+	                                                                     
+	                                       
+	                                         <span class="time fc-gray">2017-07-18 16:42</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/Lynn竹均">Lynn竹均</a>：爱你么么哒</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#19">只看楼主</a>
+</div>
+</div>
+</div>
+<div class="item item-ht item-lz" data-id="21" data-replyid="33977065" data-time="2017-02-23 11:32" data-user="foxfoxbee">
+<div class="hd f-cf">
+<a class="info" href="http://www.tianya.cn/m/home.jsp?uid=15430689">
+<h4 class="author" data-id="15430689">foxfoxbee
+                            	
+				                    <span class="u-badge">楼主</span>
+</h4>
+<p class="time fc-gray">2017-02-23 11:32</p>
+</a>
+<span class="floor fc-gray">21楼</span>
+</div>
+<div class="bd">
+<div class="reply-div">
+<p>爸妈并没有向承诺的那样来看我，却每个星期准时有电话。</p><p>一开始我很想家，有一次放学的时候，走出校门，我突然看到有个熟悉的车停在对面马路，那是我爸的车。</p><p>“爸！”</p><p>我赶紧跑过马路，可是车确立刻开走了。</p><p>我一边哭一边追，我身上没有钱，一直走了两个小时才走回家。</p><p>可是家里没有人。</p><p>我在家门口一直坐到舒月来接我，哭哭啼啼的走了。</p><p>很久以后我才知道我妈当时就在家，关了灯也在哭，可是只能狠下心不让我进去。</p><p>我离开家七年，我爸有事没事就在小学门口等我放学，就为了远远看我一眼。</p><p>我慢慢习惯了和舒月在一起，一开始每次回家，舒月都一定会跟着。无论爸妈有多忙，都一定会在家等我回来，跟我一起吃顿饭看个电影。</p><p>上了初中，慢慢我回家的次数变多了，而舒月也并不每次都跟着了。</p><p>那种感觉，就像有什么事情终于完结了，他们的担心是多余的。我也似乎看到我爸妈多年紧锁的眉头舒展开了。</p><p>转眼我就初三了，有一天我妈跟我说：“旺旺，你也麻烦舒月这么多年了，现在妈妈不忙了，你搬回来住吧。”</p><p>普天同庆啊！多年的媳妇熬成婆了！</p><p>就在我以为好日子来的时候，等着我的却是一个晴天霹雳。</p>
+</div>
+<div class="comments u-arrow" data-total="4">
+<ul class="u-list-comment">
+<li>
+<a class="author fc-blue" data-id="125694875" href="http://www.tianya.cn/m/home.jsp?uid=125694875">梦游的Cici </a>
+<span class="time fc-gray">2017-03-03 05:01</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：此贴必火，搬小板凳围观～</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="125694875" href="http://www.tianya.cn/m/home.jsp?uid=125694875">梦游的Cici </a>
+<span class="time fc-gray">2017-03-03 05:01</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：顶一个！</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="126081240" href="http://www.tianya.cn/m/home.jsp?uid=126081240">有求不应周仙姑吼 </a>
+<span class="time fc-gray">2017-03-12 05:57</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/foxfoxbee">foxfoxbee</a>：打打打</p>
+</li>
+<li>
+<a class="author fc-blue" data-id="15430689" href="http://www.tianya.cn/m/home.jsp?uid=15430689">foxfoxbee </a>
+<span class="u-badge">楼主</span>:      
+	                                                                     
+	                                       
+	                                         <span class="time fc-gray">2017-03-12 06:06</span>
+<p class="cnt">评论 <a href="http://www.tianya.cn/n/有求不应周仙姑吼">有求不应周仙姑吼</a>：周仙姑！是你吗！评论没用要回复才能置顶！</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="toolbox">
+<a class="reply-btn" href="javascript:">评论</a>
+<a class="see-ta-btn see-host-btn" href="post_author-16-1667691-1.shtml#21">只看楼主</a>
+</div>
+</div>
+</div>
+</div>
+<a id="js_2_bottom" name="js-footer"></a>
+<form action="#" class="u-pager u-pager-bottom">
+<span class="u-btn off first-btn"></span>
+<span class="u-btn off pre-btn"></span>
+<span class="page-txt"><input class="txt" pattern="[0-9]*" placeholder="1/213" type="tel"/><input class="btn" id="go_page_btn" type="button" value=""/></span>
+<a class="u-btn next-btn" href="/m/post-16-1667691-2.shtml"></a>
+<a class="u-btn last-btn" href="/m/post-16-1667691-213.shtml"></a>
+</form>
+<a class="u-more" href="list-16-1.shtml?pref=post">更多好贴，尽在莲蓬鬼话</a>
+<div class="gg gg-item" data-id="10051003"></div>
+<div class="u-like" id="like_div">
+<h3 class="">
+						大家还在看
+						<a class="more" href="http://bbs.tianya.cn/m/list.jsp?item=16&amp;grade=3&amp;pref=post">每日热帖</a>
+</h3>
+<ul id="like_ul">
+<li><a href="http://collect.tianya.cn/newAccess.jsp?p=pm-bbs-m-v3-post-tuijian1&amp;jumpurl=http://bbs.tianya.cn/m/post-culture-1019982-1.shtml">偷窥哥哥与别的女人缠绵，我心如刀绞</a></li>
+<li><a href="/m/post-16-1689812-1.shtml">西安特大暴雨！然后让我三观毁尽！</a></li>
+<li><a href="/m/post-16-1689864-1.shtml">一对夫妻的恐怖聊天记录！细思极恐</a></li>
+<li><a href="/m/post-16-1689852-1.shtml">唐山大地震41周年，扒一扒当年地震前后的诡异怪事</a></li>
+</ul>
+</div>
+<div class="gg gg-item" data-id="10051014"></div>
+<div class="u-like hot-list">
+<h3>热门帖子</h3>
+<ul id="focus_list">
+<li class="gg gg-item" data-id="10051011"></li>
+<li class="gg gg-item" data-id="10051004"></li>
+<li class="gg gg-item" data-id="10051005"></li>
+<li class="gg gg-item" data-id="10051002"></li>
+<li class="gg gg-item" data-id="10051006"></li>
+</ul>
+</div>
+<div class="gg gg-item" data-id="10051015"></div>
+</div>
+</div>
+</div>
+<script src="http://static.tianyaui.com/global/ty2.0/TY_m_2.0.js?v=201610111530"></script>
+<script src="http://static.tianyaui.com/global/m/v3/static/js/main_7acb19d.js"></script>
+<script>
+	TY.m.nav.init({
+		app_str: "bbs",
+		navFromHtml: true,
+		navOpen: false,
+		showHideIcon: true,
+		moveHide: true,
+		goBack:true,
+		referrerBack:true,
+		clickDom2Hide: true
+	})
+</script>
+<script src="http://static.tianyaui.com/global/m/v3/static/js/post_2cfc9fc.js"></script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"WCmTk1a4eFf2mh", domain:"tianya.cn",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img alt="" height="1" src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=WCmTk1a4eFf2mh" style="display:none" width="1"/></noscript>
+<!-- End Alexa Certify Javascript -->
+<div class="gg gg-item" data-id="10051099"></div>
+</body>
+</html>
+
+Process finished with exit code 0
