@@ -1,8 +1,12 @@
 clone
 Git clone git@github.com:ftctolei/GetNovel
 
-
+本地更新至github
 git add .
 git commit -m 'Test'
 git remote add origin git@github.com:ftctolei/GetNovel.git 
 git push origin master
+
+github到本地
+git fetch origin master
+git merge origin/master
