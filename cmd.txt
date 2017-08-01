@@ -1,0 +1,8 @@
+clone
+Git clone git@github.com:ftctolei/GetNovel
+
+
+git add .
+git commit -m 'Test'
+git remote add origin git@github.com:ftctolei/GetNovel.git 
+git push origin master
