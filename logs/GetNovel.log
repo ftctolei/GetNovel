@@ -1,0 +1,2 @@
+[ERROR][<module>][2017-08-02 17:24:04,838]get url content failed : [Errno 11004] getaddrinfo failed
+[ERROR][getTiantaPageContent][2017-08-02 17:27:26,864]get url content failed : [Errno 11004] getaddrinfo failed
