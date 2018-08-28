@@ -1,2 +1,78 @@
-[ERROR][<module>][2017-08-02 17:24:04,838]get url content failed : [Errno 11004] getaddrinfo failed
-[ERROR][getTiantaPageContent][2017-08-02 17:27:26,864]get url content failed : [Errno 11004] getaddrinfo failed
+[2018-08-28 16:12:24][GetWebContent.py line:99][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:12:39][GetWebContent.py line:97][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:12:39][GetWebContent.py line:99][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:12:39][GetWebContent.py line:99][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:13:19][GetWebContent.py line:97][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:13:19][GetWebContent.py line:99][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:13:19][GetWebContent.py line:99][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:13:55][GetWebContent.py line:97][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:13:55][GetWebContent.py line:99][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:13:56][GetWebContent.py line:99][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:17:21][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:17:21][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:17:22][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:18:01][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:18:01][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:18:02][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:18:02][GetWebContent.py line:175][INFO]: 网页内容已更新.
+[2018-08-28 16:18:07][GetWebContent.py line:183][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:19:23][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:19:23][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:19:23][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:19:23][GetWebContent.py line:175][INFO]: 网页内容已更新.
+[2018-08-28 16:19:28][GetWebContent.py line:183][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:21:56][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:21:56][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:21:56][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:21:56][GetWebContent.py line:175][INFO]: 网页内容已更新.
+[2018-08-28 16:22:02][GetWebContent.py line:183][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:23:15][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:23:15][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:23:16][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:23:16][GetWebContent.py line:175][INFO]: 网页内容已更新.
+[2018-08-28 16:23:21][GetWebContent.py line:183][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:31:35][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:31:35][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:31:35][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:31:35][GetWebContent.py line:175][INFO]: 网页内容已更新.
+[2018-08-28 16:31:39][GetWebContent.py line:183][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:41:54][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:41:54][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:41:54][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:41:54][GetWebContent.py line:175][INFO]: 网页内容已更新.
+[2018-08-28 16:42:00][GetWebContent.py line:183][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:42:39][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:42:39][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:42:39][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:42:40][GetWebContent.py line:174][INFO]: 网页内容已更新.
+[2018-08-28 16:42:44][GetWebContent.py line:182][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:47:05][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:47:05][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:47:05][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:47:05][GetWebContent.py line:174][INFO]: 网页内容已更新.
+[2018-08-28 16:47:09][GetWebContent.py line:182][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:51:38][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:51:38][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:51:38][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:51:39][GetWebContent.py line:174][INFO]: 网页内容已更新.
+[2018-08-28 16:51:42][GetWebContent.py line:182][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:54:20][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:54:20][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:54:20][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:54:20][GetWebContent.py line:174][INFO]: 网页内容已更新.
+[2018-08-28 16:54:27][GetWebContent.py line:182][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:55:21][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:55:21][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:55:21][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:55:21][GetWebContent.py line:174][INFO]: 网页内容已更新.
+[2018-08-28 16:55:26][GetWebContent.py line:182][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:56:12][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:56:12][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:56:12][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:56:12][GetWebContent.py line:174][INFO]: 网页内容已更新.
+[2018-08-28 16:56:17][GetWebContent.py line:182][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
+[2018-08-28 16:57:41][GetWebContent.py line:98][INFO]: 网页内容已更新, 当前页数[336]，总页数[338] .
+[2018-08-28 16:57:41][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[337]，总页数[338] .
+[2018-08-28 16:57:41][GetWebContent.py line:100][INFO]: 内容抓取中, 当前页数[338]，总页数[338] .
+[2018-08-28 16:57:41][GetWebContent.py line:174][INFO]: 网页内容已更新.
+[2018-08-28 16:57:46][GetWebContent.py line:182][INFO]: 更新通知邮件发送成功! 收件人列表:['leixichina@live.com']
