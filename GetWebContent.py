@@ -18,27 +18,34 @@ DATE_FORMAT = '%Y-%m-%d %H:%M:%S'
 formatter = logging.Formatter(BASIC_FORMAT, DATE_FORMAT)
 chlr = logging.StreamHandler() # 输出到控制台的handler
 chlr.setFormatter(formatter)
-fhlr = RotatingFileHandler(log_file,"a",102400,5) # 输出到文件的handler
+fhlr = RotatingFileHandler(log_file,"a",10240,5) # 输出到文件的handler
 fhlr.setFormatter(formatter)
 logger.addHandler(chlr)
 logger.addHandler(fhlr)
 
 
 def getBsSoup(url):
+    """
+    获取bssoup对象
+    """
     try:
         htmlContent = urllib2.urlopen(url)
-    except urllib2.HTTPError, e:
+    except urllib2.HTTPError as e:
         logger.error('get url content failed : ' + str(e.code))
         sys.exit()
-    except urllib2.URLError, e:
+    except urllib2.URLError as e:
         logger.error('get url content failed : ' + str(e.reason))
         sys.exit()
     soup = BeautifulSoup(htmlContent, "lxml")
     return soup
 
-#匹配天涯移动版 莲蓬鬼话 板块 帖子<<没有名字的人 >>
-#传入每页地址，返回回复是楼主的楼层内容
-def getTiantaPageContent(bsSoup ):
+
+
+def  getTiantaPageContent(bsSoup):
+    """
+    匹配天涯移动版 莲蓬鬼话 板块 帖子<<没有名字的人 >>
+    传入每页地址，返回回复是楼主的楼层内容
+    """
     floorClassName = 'item item-ht item-lz'
     floorContentDIVName = 'reply-div'
     floorIDName = 'data-id'
@@ -57,8 +64,10 @@ def getTiantaPageContent(bsSoup ):
     return floorContentmap
 
 
-# 返回当前帖子总页数
 def getPageTotal(bsSoup):
+    """
+    返回当前帖子总页数
+    """
     bbsGlobalDict = bsSoup.script.contents[0].string.replace('var bbsGlobal = ', '').replace(';', '')
     user_dict = demjson.decode(bbsGlobalDict)
     totalPage = user_dict['totalPage']
@@ -66,13 +75,15 @@ def getPageTotal(bsSoup):
 
 
 def getUpdatePage(webUrl,databaseFile):
+    """
+    从文件读取上次保存的最后页面和最后楼层
+    """
 
-    #从文件读取上次保存的最后页面和最后楼层
     with open(databaseFile,'r') as load_f:
         pageinfo_dict = json.load(load_f)
-        #nowpage = pageinfo_dict['currentPage']
-        nowpage = "336"
-        nowFloorID = pageinfo_dict['currentPageFloorID']
+        nowpage = str(pageinfo_dict['currentPage'])
+        #nowpage = "336"
+        #nowFloorID = str(pageinfo_dict['currentPageFloorID'])
 
     nowUrl = webUrl.replace('{PG}',nowpage)
     bsSoup = getBsSoup(nowUrl)
@@ -96,7 +107,7 @@ def getUpdatePage(webUrl,databaseFile):
         return ""
     else:
         logger.info("网页内容已更新, 当前页数[%s]，总页数[%s] .", str(nowpage), str(finalPage))
-        for page in range(int(nowpage)+1, int(finalPage)+1) :
+        for page in range(int(nowpage), int(finalPage)+1) :
             logger.info("内容抓取中, 当前页数[%s]，总页数[%s] .", str(page), str(finalPage))
             dealUrl = webUrl.replace('{PG}',str(page))
             logger.debug("nowUrl:%s", str(dealUrl))
@@ -113,14 +124,13 @@ def getUpdatePage(webUrl,databaseFile):
         json.dump(pageinfo_dict,f)
 
     #返回页面更新的内容
-    if pageContentStrList == "":
-        return ""
-    else:
+    if pageContentStrList :
         pageContentStr = '\n'.join(pageContentStrList)
         #pageContentStrHtml = '<html5><p>源网页: '.encode('utf-8') + nowUrl.encode('utf-8') + '</p>'.encode('utf-8') + pageContentStr + '\n'.encode('utf-8') + '<p>源网页: '.encode('utf-8') + nowUrl.encode('utf-8') + '</p></html5>'.encode('utf-8')
-        pageContentStrHtml = "<html5><img src='https://uploadbeta.com/api/pictures/random/' style='max-width:100%'><p><a href=" + nowUrl + ">点击查看源网页</a></p>" + pageContentStr + "<p><a href=" + nowUrl + ">点击查看源网页</a></p>" + "<p><img src='https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture' style='max-width:100%'></p>" + '</html5>'
+        pageContentStrHtml = "<html5><img src='https://uploadbeta.com/api/pictures/random/' style='max-width:100%'><p><a href=" + nowUrl + ">点击查看源网页</a></p>" + pageContentStr + "<p><a href=" + nowUrl + ">点击查看源网页</a></p>" + "<p><img src='https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture' style='max-width:100%'></p>" + "</html5>"
         return pageContentStrHtml
-
+    else:
+        return ""
 
 #=========================================
 #格式化email的头部信息，不然会出错，当做垃圾邮件
@@ -134,12 +144,14 @@ def _format_addr(s):
 
 
 def sendmail(receivers,mailtitle,mailcontent):
+    """
+    发送邮件
+    """
     import smtplib
     from email.mime.text import MIMEText
 
     ret = True
     sender = "imleixi@live.com"
-
     mail_host = "smtp-mail.outlook.com"  # 设置服务器
     mail_user = "imleixi@live.com"  # 用户名
     mail_pass = "letmeinMICROSOFT001"  # 口令
@@ -156,7 +168,7 @@ def sendmail(receivers,mailtitle,mailcontent):
         server.login(mail_user, mail_pass)  # 发件人邮箱账号、邮箱密码
         server.sendmail(sender,receivers,msg.as_string())  # 发件人邮箱账号、收件人邮箱账号、发送邮件
         server.quit()# 关闭连接
-    except Exception as e:# 如果 try 中的语句没有执行，则会执行下面的 ret=False
+    except Exception as e:
         print (e)
         ret=False
     return ret
@@ -169,13 +181,14 @@ databaseFile = './database.json'
 
 pageContentStr = getUpdatePage(webUrl,databaseFile)
 if pageContentStr == "":
-    logger.info("网页内容未更新.")
+    logger.info("网页未更新.")
 else:
-    logger.info("网页内容已更新.")
+    logger.info("网页已更新.")
 
     receivers = ['leixichina@live.com']
     mailtitle = '天涯<没有名字的人>更新推送'
     mailcontent = pageContentStr
+
 
     res = sendmail(receivers,mailtitle,mailcontent)
     if res:
